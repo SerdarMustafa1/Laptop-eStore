@@ -3,12 +3,14 @@
 Simple design for an e-store built with node.js
 
 
-Clone ->
+**Clone**
 
-** Install **
+```https://github.com/SerdarMustafa1/Laptop-estore.git```
+
+**Install**
 
 ```npm install```
 
-** Run **
+**Run**
 
 ```nodemon index.js```
